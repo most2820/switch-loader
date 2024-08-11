@@ -4,7 +4,7 @@ Switch Loader - package for Ultrahand that allows you to load homebrew and overl
 ## Installation
 Unpack the [Switch Loader](https://github.com/most2820/switch-loader/releases/latest/download/switch-loader.zip) to the root of the SD card.
 
-## Requirements:
+## Requirements
 - [Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay)
 
 ## Available for download
